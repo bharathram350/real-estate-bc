@@ -1,10 +1,8 @@
-# FractoReal: A Blockchain-based Real Estate Tokenization and Management System
+# Real-estate-bc : A Blockchain-based Real Estate Tokenization and Management System
 
-> **Disclaimer**: This project was developed for educational purposes only and should not be used in production environments. The code and resources provided here are intended to demonstrate the concepts and technology discussed in the thesis and provided as-is without warranty of any kind.
 
 ## Description
-
-FractoReal is a blockchain-based real estate management system that leverages smart contracts to facilitate the management and fractional ownership of real estate properties. The system allows property owners to tokenize their real estate assets into NFTs (Non-Fungible Tokens) and further fractionalize them into ERC-1155 tokens. This enables multiple investors to own fractions of a property, making real estate investment more accessible and liquid. The system also provides a DAO (Decentralized Autonomous Organization) for managing the properties and making decisions collectively for shared assets, as well as rent distribution and charge management functionalities.
+Real-estate-bc is a blockchain-based real estate management system that leverages smart contracts to facilitate the management and fractional ownership of real estate properties. The system allows property owners to tokenize their real estate assets into NFTs (Non-Fungible Tokens) and further fractionalize them into ERC-1155 tokens. This enables multiple investors to own fractions of a property, making real estate investment more accessible and liquid. The system also provides a DAO (Decentralized Autonomous Organization) for managing the properties and making decisions collectively for shared assets, as well as rent distribution and charge management functionalities.
 
 ## Deployed Smart Contracts Addresses
 
@@ -84,11 +82,5 @@ npm run deploy
 
 [![asciicast](https://asciinema.org/a/I89dLDvNiXPeIoOuZz5SWSU8Z.svg)](https://asciinema.org/a/I89dLDvNiXPeIoOuZz5SWSU8Z)
 
-## License
-This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](./LICENSE.md). You are free to share, copy and adapt the material in any medium or format for non-commercial purposes with proper attribution, providing a link to the license, and indicating if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
-## Acknowledgements
-
-This project was developed as part of the Master's thesis titled **"Management of Real Estate Investments on the Blockchain Platform based on Smart Contract and NFT"** by [**Amir Hossein Banavi**](https://github.com/ahbanavi) under the supervision of thesis advisor [**D. Bahrepour Ph.D.**](https://scholar.google.com/citations?user=JDuzEbsAAAAJ&hl=en) and consulting advisor [**SR. Kamel Tabbakh Ph.D.**](https://scholar.google.com/citations?user=DlN930oAAAAJ&hl=en). The _Department of Computer Engineering, Mashhad Branch, Islamic Azad University, Mashhad, Iran._ retains the ownership of this project.
 
 
